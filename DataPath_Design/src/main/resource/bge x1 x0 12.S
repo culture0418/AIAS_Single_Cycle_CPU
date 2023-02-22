@@ -1,0 +1,21 @@
+bge x1 x0 12
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2
+li x2 -2

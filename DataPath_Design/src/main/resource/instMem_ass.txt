@@ -1,0 +1,2 @@
+ addi x1  x2 -1    , x1 = 1 ok
+ slli x3  x4  2    , x3 = 4 * (2^2) = 16 ok
